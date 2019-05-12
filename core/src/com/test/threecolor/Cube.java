@@ -50,7 +50,7 @@ public class Cube {
             new State(-1, 1, -1, 1, INF, INF, Color.GREEN, Color.WHITE, Color.ORANGE, Color.ORANGE),
             new State(INF, INF, 1, -1, 1, -1, Color.GREEN, Color.WHITE, Color.ORANGE, Color.GREEN),
             new State(1, -1, INF, INF, -1, 1, Color.GREEN, Color.WHITE, Color.ORANGE, Color.WHITE),
-            new State(-1, 1, -1, 1, INF, INF, Color.WHITE, Color.GREEN, Color.ORANGE, Color.ORANGE),
+            new State(-1, 1, -1, 1, INF, INF, Color.WHITE, Color.GREEN, Color.RED, Color.RED),
             new State(INF, INF, 1, -1, 1, -1, Color.WHITE, Color.GREEN, Color.RED, Color.WHITE),
             new State(1, -1, INF, INF, -1, 1, Color.WHITE, Color.GREEN, Color.RED, Color.GREEN),
             new State(-1, 1, -1, 1, INF, INF, Color.RED, Color.WHITE, Color.GREEN, Color.GREEN),
